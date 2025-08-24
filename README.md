@@ -17,10 +17,3 @@ It is implemented in a Jupyter Notebook (`project.ipynb`) and is fully compatibl
 - Export generated documentation as **Markdown/HTML**.
 
 ---
-
-## 🛠️ Installation & Setup
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/Bhawana874/LLM-based-Data-Documentation-Generator.git
-cd LLM-based-Data-Documentation-Generator
